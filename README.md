@@ -38,8 +38,8 @@ After all steps in the annotation scheme are complete, an xml file containing al
 ```
 ### Download
 #### SleukRith Set
-* beta (110 pages): [images](https://drive.google.com/open?id=1Z7PlWFJHbxBImfg9-5p2KiGyPrRzvbBV)/[annotated data](https://drive.google.com/open?id=1IV9nF-4qjqbnHP9H85H2vW6ld82QvVr9)
-* version 1.00 (657 pages): [images]()/[annotated data]()
+* beta (110 pages): [images](https://drive.google.com/open?id=1Sdv0pPYS0dwBvJGCKthQIge6IthlEeNo)/[annotated data](https://drive.google.com/open?id=175eCHpbGSaNWqPcFY5f0LlX014MAarXK)
+* version 1.00 (657 pages): [images](https://drive.google.com/open?id=19JIxAjjXWuJ7mEyUl5-xRr2B8uOb-GKk)/[annotated data](https://drive.google.com/open?id=1Xi5ucRUb1e9TUU-nv2rCUYv2ANVsXYDk)
 #### Annotation Tool
 * [version 3.00]()
 
