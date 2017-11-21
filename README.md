@@ -43,6 +43,9 @@ After all steps in the annotation scheme are complete, an xml file containing al
 #### Annotation Tool
 * [version 3.00]()
 
+For more information about SleukRith Set, please refer to our paper: 
+_Valy, D., Verleysen, M., Chhun, S., & Burie, J. C. (2017). A New Khmer Palm Leaf Manuscript Dataset for Document Analysis and Recognition - SleukRith Set. In 4th International Workshop on Historical Document Imaging and Processing (HIP)._
+
 ### Acknowledgement
 We would like to thank the National Library of Cambodia, the EFEO team, and the Buddhist Institute for providing their digital images of palm leaf manuscripts. In addition, we would also like to acknowledge the help with the annotation process of our dataset by volunteer students from the Institute of Technology of Cambodia (ITC) and the National Institute of Posts, Telecommunications, and ICT (NIPTICT).
 
