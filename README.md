@@ -37,8 +37,11 @@ After all steps in the annotation scheme are complete, an xml file containing al
 </WordAnno>
 ```
 ### Download
-* [SleukRith Set]()
-* [Annotation Tool]()
+#### SleukRith Set
+* beta (110 pages): [images]() [annotated data]()
+* version 1.00 (657 pages): [images]() [annotated data]()
+#### Annotation Tool
+* [version 3.00]()
 
 ### Acknowledgement
 We would like to thank the National Library of Cambodia, the EFEO team, and the Buddhist Institute for providing their digital images of palm leaf manuscripts. In addition, we would also like to acknowledge the help with the annotation process of our dataset by volunteer students from the Institute of Technology of Cambodia (ITC) and the National Institute of Posts, Telecommunications, and ICT (NIPTICT).
