@@ -18,7 +18,7 @@ After all steps in the annotation scheme are complete, an xml file containing al
 
 ```
 <CharAnno>
-	<Char id="0" label="យ" lineid="0">
+    <Char id="0" label="យ" lineid="0">
     	<poly x="406" y="100"/>
         <poly x="406" y="87"/>
         ...
@@ -28,7 +28,7 @@ After all steps in the annotation scheme are complete, an xml file containing al
 ```
 ```
 <WordAnno>
-	<Word id="0" label="កំលាំង" label2="កម្លាំង">
+    <Word id="0" label="កំលាំង" label2="កម្លាំង">
     	<CharInWord id="329"/>
         <CharInWord id="330"/>
         ...
