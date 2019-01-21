@@ -43,7 +43,7 @@ After all steps in the annotation scheme are complete, an xml file containing al
 #### Annotation Tool
 * [version 4.2](https://drive.google.com/open?id=1DXr2tmcMks0wRxxggxQlFXkXkN4ABIek)
 #### Datasets Extracted from SleukRith Set
-* isolated characters: [image train](https://drive.google.com/open?id=1KXf5937l-Xu_sXsGPuQOgFt4zRaXlSJ5) [label train](https://drive.google.com/open?id=1IbmLg-4l-3BtRhprDWWvZjCp7lqap0Z-) [image test](https://drive.google.com/open?id=1KSt5AiRIilRryh9GBcxyUUhnbiScdQ-9) [label test](https://drive.google.com/open?id=1GYcaUInkxtuuQps-qA38u-4zxK7HgrAB) ([data format](https://drive.google.com/open?id=1I9iZMpux3DO9CjfZtRyfQNHqT75yKT9D))
+* isolated characters: [image train](https://drive.google.com/open?id=1KXf5937l-Xu_sXsGPuQOgFt4zRaXlSJ5)/[label train](https://drive.google.com/open?id=1IbmLg-4l-3BtRhprDWWvZjCp7lqap0Z-)/[image test](https://drive.google.com/open?id=1KSt5AiRIilRryh9GBcxyUUhnbiScdQ-9)/[label test](https://drive.google.com/open?id=1GYcaUInkxtuuQps-qA38u-4zxK7HgrAB) ([data format](https://drive.google.com/open?id=1I9iZMpux3DO9CjfZtRyfQNHqT75yKT9D))
 
 For more information about SleukRith Set, please refer to our paper: 
 _Valy, D., Verleysen, M., Chhun, S., & Burie, J. C. (2017). A New Khmer Palm Leaf Manuscript Dataset for Document Analysis and Recognition - SleukRith Set. In 4th International Workshop on Historical Document Imaging and Processing (HIP)._
